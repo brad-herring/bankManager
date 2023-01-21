@@ -1,0 +1,34 @@
+{
+    "accounts": [
+        {
+            "accountID": 1,
+            "firstName": "Herschel",
+            "lastName": "Herring",
+            "balance": 150
+        },
+        {
+            "accountID": 2,
+            "firstName": "Melanie",
+            "lastName": "Chalmers",
+            "balance": 200
+        },
+        {
+            "accountID": 3,
+            "firstName": "John",
+            "lastName": "Hashtak",
+            "balance": 200
+        },
+        {
+            "accountID": 4,
+            "firstName": "Jack",
+            "lastName": "Doe",
+            "balance": 970000
+        },
+        {
+            "accountID": 5,
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "balance": 300
+        }
+    ]
+}
